@@ -1,9 +1,9 @@
 MacのターミナルからAtomでファイルを開く方法を調べたのでメモ
 
-##準備
+##H2 準備
 Atomを起動して、Atom > Install Shell Commandsでatomとapmをインストールする。
 
-##方法
+##H2 方法
 
 - Atomを開く
 ```$ atom```
@@ -20,6 +20,6 @@ Atomを起動して、Atom > Install Shell Commandsでatomとapmをインスト�
 例：desktopにいる時に、新規ディレクトリhogeを作成+その中に新規ファイルhoge.jsを作成。
 ```desktop (ユーザ名)$ atom ./hoge/hoge.js```
 
-##参考
+##H2 参考
 - [How to open Atom editor from command line in OS X?](http://stackoverflow.com/questions/22390709/how-to-open-atom-editor-from-command-line-in-os-x)
 - [ターミナルから、Atomを起動してみたら便利だった。](http://qiita.com/35_267_/items/5d7afff691477a24742a)
