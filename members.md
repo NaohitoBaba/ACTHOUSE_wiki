@@ -35,6 +35,8 @@
 
 ### 7.Naohito Baba
 
+高杉君の面倒を見る良い子
+
 ### 8.Wataru Kume
 
 ### 9.Yukihiro Hosomi
