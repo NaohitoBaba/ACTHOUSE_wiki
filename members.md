@@ -21,6 +21,8 @@
 
 ### 1.Taichi Takasugi
 
+よく質問する悪い子
+
 ### 2.Kazuaki Sajima
 
 ### 3.Shiori Ikehama
