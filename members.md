@@ -33,6 +33,8 @@
 ### 5.Sakuya Iwahashi
 
 ### 6.Mitsuhiro Koga
+古賀光弘
+
 
 ### 7.Naohito Baba
 
