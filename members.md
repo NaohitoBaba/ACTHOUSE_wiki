@@ -28,7 +28,6 @@
 ### 3.Shiori Ikehama
 
 ### 4.Mihoko Suzuki
-٩( ᐛ )و
 
 ### 5.Sakuya Iwahashi
 
