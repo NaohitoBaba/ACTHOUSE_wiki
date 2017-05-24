@@ -37,6 +37,8 @@
 
 ### 8.Wataru Kume
 
+脱マウス
+
 ### 9.Yukihiro Hosomi
 
 ### 10.Makoto Tatsumi
