@@ -28,12 +28,15 @@
 ### 3.Shiori Ikehama
 
 ### 4.Mihoko Suzuki
+٩( ᐛ )و
 
 ### 5.Sakuya Iwahashi
 
 ### 6.Mitsuhiro Koga
 
 ### 7.Naohito Baba
+
+高杉君の面倒を見る良い子
 
 ### 8.Wataru Kume
 
