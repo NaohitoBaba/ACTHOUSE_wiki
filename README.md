@@ -1,5 +1,4 @@
 # ACTHOUSE_wiki
----
 
 ## ACTHOUSE_wikiの活用の仕方
 
@@ -19,7 +18,6 @@ ACTHOUSE_wikiはgitの練習と活用を兼ね、gitを使って情報共有を�
 
 
 ## ACTHOUSE_wikiの使い方
----
 
 1. ファイルはマークダウン形式で作成すること
 2. 作成者は一番下に名前を記入しておく
