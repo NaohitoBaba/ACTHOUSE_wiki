@@ -39,6 +39,10 @@
 
 脱マウス
 
+'''
+include(./header.php)
+'''
+
 ### 9.Yukihiro Hosomi
 
 ### 10.Makoto Tatsumi
