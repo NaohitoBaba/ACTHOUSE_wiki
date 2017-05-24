@@ -41,7 +41,7 @@
 ### 8.Wataru Kume
 
 ### 9.Yukihiro Hosomi
-
+古賀は変態だとおもいます
 ### 10.Makoto Tatsumi
 
 ### 11.Souma Yoshimoto
